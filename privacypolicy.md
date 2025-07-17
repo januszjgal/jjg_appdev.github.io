@@ -10,7 +10,7 @@ Our app collects minimal information to provide its core functionality:
 
 ### Local Storage Data
 - Event timestamps
-- Event flags (such as "solo" status)
+- Event flags
 - Event IDs
 - User preferences and settings
 
